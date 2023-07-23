@@ -4,11 +4,11 @@
 <p align="center">
 <img alt="coder coding gif" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" /><br><br><br>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bsal&label=Profile%20views&color=0e75b6&style=flat" alt="bsal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-dahal&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-dahal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsal" alt="bsal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-dahal" alt="bishal-dahal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bsal" target="blank"><img src="https://img.shields.io/twitter/follow/bsal?logo=twitter&style=for-the-badge" alt="bsal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bishal-dahal" target="blank"><img src="https://img.shields.io/twitter/follow/bishal-dahal?logo=twitter&style=for-the-badge" alt="bishal-dahal" /></a> </p>
 
 - 🔭 I’m currently working on **React**
 
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bsal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsal" height="30" width="40" /></a>
+<a href="https://twitter.com/bishal-dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishal-dahal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bishal-dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-dahal" height="30" width="40" /></a>
 <a href="https://fb.com/bal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bal" height="30" width="40" /></a>
 </p>
 
@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bal" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsal&show_icons=true&locale=en&layout=compact" alt="bsal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal-dahal&show_icons=true&locale=en&layout=compact" alt="bishal-dahal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsal&show_icons=true&locale=en" alt="bsal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishal-dahal&show_icons=true&locale=en" alt="bishal-dahal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bsal&" alt="bsal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-dahal&" alt="bishal-dahal" /></p>
