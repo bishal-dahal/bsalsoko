@@ -28,8 +28,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bal" /></a></p><br><br>
-<br><p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal-dahal&show_icons=true&locale=en&layout=compact&theme=dark" alt="bishal-dahal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishal-dahal&show_icons=true&locale=en&theme=dark" alt="bishal-dahal" /></p>
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal-dahal&show_icons=true&locale=en&layout=compact&theme=dark" alt="bishal-dahal" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bishal-dahal&show_icons=true&locale=en&theme=dark" alt="bishal-dahal" /></td>
+  </tr>
+</table>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-dahal&theme=dark&" alt="bishal-dahal" /></p>
+
