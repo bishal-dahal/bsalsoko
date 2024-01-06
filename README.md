@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-dahal&theme=juicyfresh&row=1" alt="bishal-dahal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bishal-dahal" target="blank"><img src="https://img.shields.io/twitter/follow/bishal-dahal?logo=twitter&style=for-the-badge" alt="bishal-dahal" /></a> </p>
-- 📫 How to reach me **bishaldahal@duck.com**
+- 📫 How to reach me <a href="mailto:bishaldahal@duck.com">bishaldahal@duck.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
