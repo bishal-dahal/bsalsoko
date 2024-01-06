@@ -15,23 +15,15 @@
 # 📊 GitHub Stats:
 <table>
   <tr>
+   <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-dahal&theme=dark&" alt="bishal-dahal" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal-dahal&show_icons=true&locale=en&layout=compact&theme=dark" alt="bishal-dahal" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=bishal-dahal&show_icons=true&locale=en&theme=dark" alt="bishal-dahal" /></td>
+<!--     <td><img src="https://github-readme-stats.vercel.app/api?username=bishal-dahal&show_icons=true&locale=en&theme=dark" alt="bishal-dahal" /></td> -->
   </tr>
 </table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-dahal&theme=dark&" alt="bishal-dahal" /></p>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bishal-dahal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=bishal-dahal&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!--### 🔝 Top Contributed Repo
+(https://github-contributor-stats.vercel.app/api?username=bishal-dahal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 
