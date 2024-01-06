@@ -5,7 +5,6 @@
  -->
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bishal-dahal&theme=juicyfresh&row=1" alt="bishal-dahal" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-dahal&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-dahal" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1) 
@@ -20,6 +19,7 @@
 <!--     <td><img src="https://github-readme-stats.vercel.app/api?username=bishal-dahal&show_icons=true&locale=en&theme=dark" alt="bishal-dahal" /></td> -->
   </tr>
 </table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-dahal&label=Profile%20views" alt="bishal-dahal" /> </p>
 
 
 <!--### 🔝 Top Contributed Repo
