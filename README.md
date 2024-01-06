@@ -1,19 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bishal Dahal</h1>
+<h1 align="center">Hi 👋</h1>
+<p align="center">I'm Bishal Dahal, a computer engineer from Nepal. My expertise lies in web and mobile development, where I've successfully completed several projects using technologies such as React, React Native, Node.js, and MongoDB. I'm fluent in Nepali, English, and Hindi, and have a strong command of Linux, Python, and Microsoft Word. I'm always ready to learn new things and tackle challenging problems. Now, as an engineering graduate, I'm seeking opportunities to apply my skills in practical settings and contribute to the field of technology.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-dahal&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-dahal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-dahal&theme=juicyfresh&row=1" alt="bishal-dahal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bishal-dahal" target="blank"><img src="https://img.shields.io/twitter/follow/bishal-dahal?logo=twitter&style=for-the-badge" alt="bishal-dahal" /></a> </p>
-
-- 🔭 I’m currently working on **React and React Native**
-
-- 🌱 I’m currently learning **React and React Native**
-
-<!-- 👨‍💻 All of my projects are available at [test.test](test.test) -->
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **bishaldahal@duck.com**
 
 <h3 align="left">Connect with me:</h3>
