@@ -4,7 +4,7 @@
 <!-- - 📫 How to reach me <a href="mailto:bishaldahal@duck.com">bishaldahal@duck.com</a><br>
  -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal-dahal&theme=juicyfresh&row=1" alt="bishal-dahal" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bishal-dahal&theme=juicyfresh&row=1" alt="bishal-dahal" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-dahal&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-dahal" /> </p>
 
 ## 🌐 Socials:
