@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋</h1>
-<p align="center">I'm Bishal Dahal, a computer engineer from Nepal. My expertise lies in web and mobile development, where I've successfully completed several projects using technologies such as React, React Native, Node.js, and MongoDB. I'm fluent in Nepali, English, and Hindi, and have a strong command of Linux, Python, and Microsoft Word. I'm always ready to learn new things and tackle challenging problems. Now, as an engineering graduate, I'm seeking opportunities to apply my skills in practical settings and contribute to the field of technology.
-</p>
 <!-- - 📫 How to reach me <a href="mailto:bishaldahal@duck.com">bishaldahal@duck.com</a><br>
  -->
 
